@@ -1,0 +1,1 @@
+void Funktionsgenerator(double frequenzy, double amplitude,double resolution, double rec_time, FILE *output_stream);
